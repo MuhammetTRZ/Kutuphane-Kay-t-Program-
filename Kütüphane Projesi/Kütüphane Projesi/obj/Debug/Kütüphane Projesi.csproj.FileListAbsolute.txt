@@ -1,0 +1,12 @@
+C:\Users\Nebi Terzi\Desktop\Kütüphane Projesi\Kütüphane Projesi\Kütüphane Projesi\bin\Debug\Kütüphane Projesi.exe.config
+C:\Users\Nebi Terzi\Desktop\Kütüphane Projesi\Kütüphane Projesi\Kütüphane Projesi\bin\Debug\Kütüphane Projesi.exe
+C:\Users\Nebi Terzi\Desktop\Kütüphane Projesi\Kütüphane Projesi\Kütüphane Projesi\bin\Debug\Kütüphane Projesi.pdb
+C:\Users\Nebi Terzi\Desktop\Kütüphane Projesi\Kütüphane Projesi\Kütüphane Projesi\obj\Debug\Kütüphane Projesi.csproj.AssemblyReference.cache
+C:\Users\Nebi Terzi\Desktop\Kütüphane Projesi\Kütüphane Projesi\Kütüphane Projesi\obj\Debug\Kütüphane Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nebi Terzi\Desktop\Kütüphane Projesi\Kütüphane Projesi\Kütüphane Projesi\obj\Debug\Kütüphane_Projesi.Form1.resources
+C:\Users\Nebi Terzi\Desktop\Kütüphane Projesi\Kütüphane Projesi\Kütüphane Projesi\obj\Debug\Kütüphane_Projesi.Properties.Resources.resources
+C:\Users\Nebi Terzi\Desktop\Kütüphane Projesi\Kütüphane Projesi\Kütüphane Projesi\obj\Debug\Kütüphane Projesi.csproj.GenerateResource.cache
+C:\Users\Nebi Terzi\Desktop\Kütüphane Projesi\Kütüphane Projesi\Kütüphane Projesi\obj\Debug\Kütüphane Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Nebi Terzi\Desktop\Kütüphane Projesi\Kütüphane Projesi\Kütüphane Projesi\obj\Debug\Kütüphane Projesi.exe
+C:\Users\Nebi Terzi\Desktop\Kütüphane Projesi\Kütüphane Projesi\Kütüphane Projesi\obj\Debug\Kütüphane Projesi.pdb
+C:\Users\Nebi Terzi\Desktop\Kütüphane Projesi\Kütüphane Projesi\Kütüphane Projesi\obj\Debug\Kütüphane_Projesi.kayıt_ol.resources
